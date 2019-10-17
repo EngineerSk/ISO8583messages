@@ -55,5 +55,5 @@
       id="62"
       length="999"
       name="Reserved for private use"
-      class="org.jpos.iso.IFA_LLLCHAR"/
+      class="org.jpos.iso.IFA_LLLCHAR"/>
 </isopackager>
