@@ -196,12 +196,6 @@
       class="org.jpos.iso.IFA_NUMERIC"/>
   
   <isofield
-      id="31"
-      length= "0"
-      name="Acquirer reference data"
-      class="org.jpos.iso.IFA_LLCHAR"/>
-  
-  <isofield
       id="32"
       length= "0"
       name="Acquirer institution identification code"
