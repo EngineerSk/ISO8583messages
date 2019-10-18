@@ -52,8 +52,8 @@
       name="Card acceptor terminal identification"
       class="org.jpos.iso.IF_CHAR"/>
   <isofield
-      id="62"
-      length="999"
-      name="Reserved for private use"
-      class="org.jpos.iso.IFA_LLLCHAR"/>
+      id="70"
+      length="3"
+      name="Country code authorizing agent inst"
+      class="org.jpos.iso.IFA_NUMERIC"/>
 </isopackager>
