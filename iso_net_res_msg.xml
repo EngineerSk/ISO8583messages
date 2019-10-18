@@ -545,7 +545,7 @@
   
   <isofield
       id="89"
-      length= "0
+      length= "0"
       name="Debits, reversal amount"
       class="org.jpos.iso.IFA_NUMERIC"/>
                                       
