@@ -239,7 +239,7 @@
   
   <isofield
       id="39"
-      length= "0"
+      length= "2"
       name="Action code"
       class="org.jpos.iso.IFA_NUMERIC"/>
   
