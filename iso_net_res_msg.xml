@@ -425,7 +425,7 @@
   
   <isofield
       id="70"
-      length= "0"
+      length= "3"
       name="Country code, authorizing agent Inst."
       class="org.jpos.iso.IFA_NUMERIC"/>
   
