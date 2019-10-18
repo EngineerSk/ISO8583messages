@@ -19,7 +19,7 @@
   
   <isofield
       id = "2"
-      length = "19"
+      length = "16"
       name = "Primary Account number"
       class = "org.jpos.iso.IFA_NUMERIC"/>
   
@@ -224,12 +224,6 @@
       length= "0"
       name="Track 2 data"
       class="org.jpos.iso.IFA_LLCHAR"/>
-  
-  <isofield
-      id="36"
-      length= "0"
-      name="Track 3 data"
-      class="org.jpos.iso.IFA_LLLCHAR"/>
   
   <isofield
       id="37"
